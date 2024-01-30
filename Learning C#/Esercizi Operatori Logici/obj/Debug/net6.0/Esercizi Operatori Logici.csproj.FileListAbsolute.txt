@@ -1,0 +1,14 @@
+C:\Users\Alex\Desktop\Learning C#\Esercizi Operatori Logici\bin\Debug\net6.0\Esercizi Operatori Logici.exe
+C:\Users\Alex\Desktop\Learning C#\Esercizi Operatori Logici\bin\Debug\net6.0\Esercizi Operatori Logici.deps.json
+C:\Users\Alex\Desktop\Learning C#\Esercizi Operatori Logici\bin\Debug\net6.0\Esercizi Operatori Logici.runtimeconfig.json
+C:\Users\Alex\Desktop\Learning C#\Esercizi Operatori Logici\bin\Debug\net6.0\Esercizi Operatori Logici.dll
+C:\Users\Alex\Desktop\Learning C#\Esercizi Operatori Logici\bin\Debug\net6.0\Esercizi Operatori Logici.pdb
+C:\Users\Alex\Desktop\Learning C#\Esercizi Operatori Logici\obj\Debug\net6.0\Esercizi Operatori Logici.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alex\Desktop\Learning C#\Esercizi Operatori Logici\obj\Debug\net6.0\Esercizi Operatori Logici.AssemblyInfoInputs.cache
+C:\Users\Alex\Desktop\Learning C#\Esercizi Operatori Logici\obj\Debug\net6.0\Esercizi Operatori Logici.AssemblyInfo.cs
+C:\Users\Alex\Desktop\Learning C#\Esercizi Operatori Logici\obj\Debug\net6.0\Esercizi Operatori Logici.csproj.CoreCompileInputs.cache
+C:\Users\Alex\Desktop\Learning C#\Esercizi Operatori Logici\obj\Debug\net6.0\Esercizi Operatori Logici.dll
+C:\Users\Alex\Desktop\Learning C#\Esercizi Operatori Logici\obj\Debug\net6.0\refint\Esercizi Operatori Logici.dll
+C:\Users\Alex\Desktop\Learning C#\Esercizi Operatori Logici\obj\Debug\net6.0\Esercizi Operatori Logici.pdb
+C:\Users\Alex\Desktop\Learning C#\Esercizi Operatori Logici\obj\Debug\net6.0\Esercizi Operatori Logici.genruntimeconfig.cache
+C:\Users\Alex\Desktop\Learning C#\Esercizi Operatori Logici\obj\Debug\net6.0\ref\Esercizi Operatori Logici.dll

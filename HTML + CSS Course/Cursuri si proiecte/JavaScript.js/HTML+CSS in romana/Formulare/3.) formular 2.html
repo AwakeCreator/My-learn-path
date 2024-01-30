@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="ro-RO">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Formular 2</title>
+    </head>
+    <body>
+        <form action="">
+            <label for="fullname">Nume complet</label>
+            <input 
+                type="text"
+                id="fullname"
+                name="fullname"
+                placeholder="Introduceti numele complet"
+                required 
+                minlegth="4"
+                maxlength="50"
+            />
+            <br>
+            <label for="email">Adresa de email</label>
+            <input 
+                type="email"
+                id="email"
+                name="email"
+                placeholder="Introduceti adresa de email"
+                required
+                maxlength="50"
+            />
+            <br>
+            <label for="parola">Parola</label>
+            <input 
+                type="password"
+                id="password"
+                name="password"
+                placeholder="Introduceti parola"
+                minlength="6"
+                required
+            />
+            <br>
+            <label for="birthday">Data nasterii</label>   
+            <input 
+                type="date"
+                id="birthday"
+                name="birthday"
+                required
+            />
+            <br>
+            <input 
+                type="checkbox" 
+                id="checkbox"
+                name="checkbox"
+                required
+            > Termeni si conditii <br>
+            <input type="submit" value="Inregistrare">
+            <button type="reset">Reset</button>
+        </form>
+    </body>
+</html>

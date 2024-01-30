@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Keyframes Animation</title>
+	<style>
+		body {
+			background: #333;
+			display: flex;
+			align-items: center;
+			justify-content: center;
+			height: 100vw;
+		}
+
+		.box {
+			background: white;
+			width: 200px;
+			height: 200px;
+			border-radius: 50%;
+			position: relative;
+			/* animation-name: animate1; */
+			/* animation-duration: 3s; */
+			/* animation-iteration-count: 1; try infinite */
+			/* animation-fill-mode:forwards; /* backwards by default, */
+	/* with forwards it will remain how it is at the end of animation you should use this feature just when you want to animate just ones */ 
+			/*animation-delay: 2s; ritarda la partenza dell'animazione */
+			/*animation-direction: alternate-reverse;inverte l'animazione*/
+			/* animation-timing-function: ease-in-out; */
+			animation: animate1 5s forwards 1s ease-in-out;
+		}
+
+		@keyframes animate1 {
+			from {
+				width: 200px;
+				height: 200px;
+				background-color: red;
+				top: 0;
+			}
+
+			to {
+				width: 800px;
+				height: 600px;
+				top: 300px;
+			}
+		}
+	</style>
+</head>
+<body>
+	<div class="box"></div>
+</body>
+</html>

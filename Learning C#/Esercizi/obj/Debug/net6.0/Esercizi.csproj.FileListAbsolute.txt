@@ -1,0 +1,14 @@
+C:\Users\Alex\Desktop\Learning C#\Esercizi\bin\Debug\net6.0\Esercizi.exe
+C:\Users\Alex\Desktop\Learning C#\Esercizi\bin\Debug\net6.0\Esercizi.deps.json
+C:\Users\Alex\Desktop\Learning C#\Esercizi\bin\Debug\net6.0\Esercizi.runtimeconfig.json
+C:\Users\Alex\Desktop\Learning C#\Esercizi\bin\Debug\net6.0\Esercizi.dll
+C:\Users\Alex\Desktop\Learning C#\Esercizi\bin\Debug\net6.0\Esercizi.pdb
+C:\Users\Alex\Desktop\Learning C#\Esercizi\obj\Debug\net6.0\Esercizi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alex\Desktop\Learning C#\Esercizi\obj\Debug\net6.0\Esercizi.AssemblyInfoInputs.cache
+C:\Users\Alex\Desktop\Learning C#\Esercizi\obj\Debug\net6.0\Esercizi.AssemblyInfo.cs
+C:\Users\Alex\Desktop\Learning C#\Esercizi\obj\Debug\net6.0\Esercizi.csproj.CoreCompileInputs.cache
+C:\Users\Alex\Desktop\Learning C#\Esercizi\obj\Debug\net6.0\Esercizi.dll
+C:\Users\Alex\Desktop\Learning C#\Esercizi\obj\Debug\net6.0\refint\Esercizi.dll
+C:\Users\Alex\Desktop\Learning C#\Esercizi\obj\Debug\net6.0\Esercizi.pdb
+C:\Users\Alex\Desktop\Learning C#\Esercizi\obj\Debug\net6.0\Esercizi.genruntimeconfig.cache
+C:\Users\Alex\Desktop\Learning C#\Esercizi\obj\Debug\net6.0\ref\Esercizi.dll

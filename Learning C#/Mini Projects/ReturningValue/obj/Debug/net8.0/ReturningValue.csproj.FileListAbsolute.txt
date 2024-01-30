@@ -1,0 +1,14 @@
+C:\Users\Alex\Desktop\Learning C#\Mini Projects\ReturningValue\bin\Debug\net8.0\ReturningValue.exe
+C:\Users\Alex\Desktop\Learning C#\Mini Projects\ReturningValue\bin\Debug\net8.0\ReturningValue.deps.json
+C:\Users\Alex\Desktop\Learning C#\Mini Projects\ReturningValue\bin\Debug\net8.0\ReturningValue.runtimeconfig.json
+C:\Users\Alex\Desktop\Learning C#\Mini Projects\ReturningValue\bin\Debug\net8.0\ReturningValue.dll
+C:\Users\Alex\Desktop\Learning C#\Mini Projects\ReturningValue\bin\Debug\net8.0\ReturningValue.pdb
+C:\Users\Alex\Desktop\Learning C#\Mini Projects\ReturningValue\obj\Debug\net8.0\ReturningValue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alex\Desktop\Learning C#\Mini Projects\ReturningValue\obj\Debug\net8.0\ReturningValue.AssemblyInfoInputs.cache
+C:\Users\Alex\Desktop\Learning C#\Mini Projects\ReturningValue\obj\Debug\net8.0\ReturningValue.AssemblyInfo.cs
+C:\Users\Alex\Desktop\Learning C#\Mini Projects\ReturningValue\obj\Debug\net8.0\ReturningValue.csproj.CoreCompileInputs.cache
+C:\Users\Alex\Desktop\Learning C#\Mini Projects\ReturningValue\obj\Debug\net8.0\ReturningValue.dll
+C:\Users\Alex\Desktop\Learning C#\Mini Projects\ReturningValue\obj\Debug\net8.0\refint\ReturningValue.dll
+C:\Users\Alex\Desktop\Learning C#\Mini Projects\ReturningValue\obj\Debug\net8.0\ReturningValue.pdb
+C:\Users\Alex\Desktop\Learning C#\Mini Projects\ReturningValue\obj\Debug\net8.0\ReturningValue.genruntimeconfig.cache
+C:\Users\Alex\Desktop\Learning C#\Mini Projects\ReturningValue\obj\Debug\net8.0\ref\ReturningValue.dll

@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Presentation</title>
+	<link rel="stylesheet" href="style.css">
+	<script src="https://kit.fontawesome.com/82f8752bce.js" crossorigin="anonymous"></script>
+</head>
+<body>
+	<!-- Page 1 -->
+		<section id="page-1" class="content">
+			<div class="container">
+				<h1>Welcome To My Presentation</h1>
+				<p>Everyone has the right to freedom of thought, conscience and religion; this right includes freedom to change his religion or belief, and freedom, either alone or in community with others and in public or private.</p>
+				<div>
+					<a href="#page-2" class="btn">Next Page <i class="fa-solid fa-arrow-circle-down"></i></a>
+				</div>
+			</div>
+		</section>
+
+		<!-- Page 2 -->
+		<section id="page-2" class="content">
+			<div class="container">
+				<h1>Page 2</h1>
+				<p>Everyone has the right to manifest his religion or belief in teaching, practice, worship and observance. Everyone has the right to freedom of opinion and expression</p>
+				<div>
+					<a href="#page-3" class="btn">Next Page <i class="fa-solid fa-arrow-circle-down"></i></a>
+					<a href="#page-1" class="btn">Prev Page <i class="fa-solid fa-arrow-circle-up"></i></a>
+				</div>
+			</div>
+		</section>
+
+		<!-- Page 3 -->
+		<section id="page-3" class="content">
+			<div class="container">
+				<h1>Page 3</h1>
+				<p>This right includes freedom to hold opinions without interference and to seek, receive and impart information and ideas through any media and regardless of frontiers.</p>
+				<div>
+					<a href="#page-4" class="btn">Next Page <i class="fa-solid fa-arrow-circle-down"></i></a>
+					<a href="#page-2" class="btn">Prev Page <i class="fa-solid fa-arrow-circle-up"></i></a>
+				</div>
+			</div>
+		</section>
+
+		<!-- Page 4 -->
+		<section id="page-4" class="content">
+			<div class="container">
+				<h1>Page 4</h1>
+				<p>Everyone has the right to rest and leisure, including reasonable limitation of working hours and periodic holidays with pay.</p>
+				<div>
+					<a href="#page-3" class="btn">Prev Page <i class="fa-solid fa-arrow-circle-up"></i></a>
+				</div>
+			</div>
+		</section>
+
+		<script
+			  src="https://code.jquery.com/jquery-3.7.1.min.js"
+			  integrity="sha256-/JqT3SQfawRcv/BIHPThkBvs0OEvtFFmqPF/lYI/Cxo="
+			  crossorigin="anonymous">
+		</script>
+
+		<script>
+			// Smooth Scrolling
+			$('.btn').on('click', function(event){
+				if (this.hash !== '') {
+					event.preventDefault ();
+					const hash = this.hash;
+					$('html, body').animate (
+						{
+							scrollTop: $(hash).offset().top
+						},
+						800
+					)
+				}
+			});
+		</script>
+</body>
+</html>

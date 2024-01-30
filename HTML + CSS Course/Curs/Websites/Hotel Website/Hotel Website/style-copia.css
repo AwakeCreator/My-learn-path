@@ -1,0 +1,305 @@
+@import url('https://fonts.googleapis.com/css2?family=Courgette&display=swap');
+
+* {
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+}
+
+body {
+	font-family: 'Courgette', sans-serif;
+	background: #333;
+	color: #fff;
+}
+
+a {
+	text-decoration: none;
+	color: #fff;
+}
+
+ul {
+	list-style: none;
+	display: flex;
+}
+
+/* Utilities */
+.current {
+	background: #444;
+	color: #f6c08b;
+}
+
+.text-primary {
+	color: #f6c08b;
+}
+
+.btn {
+	padding: 8px 20px;
+	display: inline-block;
+	border: none;
+	cursor: pointer;
+}
+
+.bg-dark {
+	background: #333;
+	color: #fff;
+}
+
+.bg-grey {
+	background: #444;
+	color: #fff;
+}
+
+.bg-light {
+	background: #f4f4f4;
+	color: #333;
+}
+
+.bg-primary {
+	background:#f6c08b;
+	color: #333;
+}
+
+/* Header */
+header {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	padding: 0 40px;
+}
+
+header .logo a:hover {
+	color: #f6c08b;
+}
+
+header ul li {
+	padding: 25px 40px;
+}
+
+header ul li:hover {
+	background: #444;
+	color: #f6c08b;
+}
+
+/* Showcase */ 
+.showcase {
+	background: url(image_resources/image_resources/showcase.jpg) no-repeat center center/cover;
+	height: 76vh;
+	position: relative;
+	z-index: 1;
+}
+
+.showcase::before {
+	content: '';
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+	background: rgba(0, 0, 0, 0.4);
+	position: absolute;
+	z-index: -1;
+}
+
+.container {
+	display: flex;
+	flex-direction: column;
+	text-align: center;
+	justify-content: center;
+	align-items: center;
+	height: 100%;
+	padding: 0 80px;
+	line-height: 2;
+}
+
+.showcase .container h1 {
+	font-size: 50px;
+}
+
+.showcase .container p {
+	font-size: 20px;
+	margin-bottom: 20px;
+}
+
+.showcase .container a:hover {
+	background: #444;
+	color: #f6c08b;
+}
+
+/* About Section */
+.about-section {
+	display: flex;
+	height: 1000px;
+}
+
+.about-section .left {
+	background: url(image_resources/image_resources/photo-1.jpg) no-repeat center bottom;
+	width: 50%;
+}
+
+.about-section .right {
+	width: 50%;
+}
+
+.about-section .right .container p {
+	margin-bottom: 10px;
+}
+
+.about-section .right .container a:hover {
+	background: #444;
+	color: #f6c08b;
+}
+
+/* Bottom-section */
+.bottom-section {
+	display: flex;
+}
+
+.bottom-section .box {
+	text-align: center;
+	padding: 15px 30px;
+	line-height: 1.5;
+}
+
+.bottom-section .box h3 {
+	margin-bottom: 5px;
+}
+
+/* Footer */
+footer {
+	text-align: center;
+	padding: 20px 0;
+}
+
+
+/* About-top */
+.about-top {
+	display: flex;
+	padding-bottom: 65px;
+}
+
+.about-top .left h1 {font-size: 38px;}
+
+.about-top .left {
+	width: 50%;
+	padding: 0px 40px;
+	line-height: 2;
+}
+
+.about-top .left div {
+	padding: 25px 0;
+}
+
+.about-top .right {
+	display: flex;
+	width: 50%;
+	text-align: center;
+	align-items: center;
+	justify-content: center;
+	padding: 40px 0 0 0;
+}
+
+.about-top .right .image {
+	background: url(image_resources/image_resources/photo-2.jpg) no-repeat center center/cover;
+	width: 70%;
+	height: 100%;
+	border-radius: 50%;
+}
+
+/* About-bottom */
+section {
+	background: url(image_resources/image_resources/test-bg.jpg) no-repeat center center/cover;
+	padding: 0 50px 60px;
+	height: calc(60vh - 50px);
+}
+
+section h1 {
+	font-size: 40px;
+	padding: 30px 0;
+	text-align: center;
+}
+
+#girl-1 {
+	background: #f6c08b;
+	padding: 20px;
+	color: #333;
+	line-height: 2;
+	border-radius: 5px;
+	opacity: 0.9;
+	margin-bottom: 40px;
+}
+
+#girl-1 .image {
+	background: url(image_resources/image_resources/person-1.jpg) no-repeat center center/cover;
+	width: 100px;
+	height: 100px;
+	border-radius: 50%;
+	float: left;
+	margin-right: 20px;
+	margin-top: 10px;
+}
+
+#girl-1 p {
+	padding: 10px;
+}
+
+#girl-2 {
+	background: #f6c08b;
+	padding: 20px;
+	color: #333;
+	line-height: 2;
+	border-radius: 5px;
+	opacity: 0.9;
+}
+
+#girl-2 .image {
+	background: url(image_resources/image_resources/person-2.jpg) no-repeat center center/cover;
+	width: 100px;
+	height: 100px;
+	border-radius: 50%;
+	float: left;
+	margin-right: 20px;
+	margin-top: 10px;
+}
+
+#girl-2 p {
+	padding: 10px;
+}
+
+/* Contact */
+.contact-background {
+	background: url(image_resources/image_resources/manuel-moreno.jpg) no-repeat center center/cover;
+	width: 100%;
+	height:50vh;
+}
+
+.contact-us {
+	padding: 30px;
+}
+
+.contact-us h1 {font-size: 40px;}
+.contact-us p {margin-bottom: 20px;}
+.contact-us form label {display: block;}
+.contact-us form input:not(:last-child), textarea {
+	width: 100%;
+	border: 2px solid #ddd;
+	padding: 10px 0;
+	margin-bottom: 20px;
+}
+
+.contact-us form input:focus, textarea:focus {
+	outline: none;
+	border: 2px solid #f6c08b;
+}
+
+.contact-info {
+	display: flex;
+}
+
+.contact-info .box {
+	width: 100%;
+	text-align: center;
+	padding: 40px;
+}
+
+
+
+

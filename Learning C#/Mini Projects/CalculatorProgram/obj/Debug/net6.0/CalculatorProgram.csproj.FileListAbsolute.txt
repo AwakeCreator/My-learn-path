@@ -1,0 +1,14 @@
+C:\Users\Alex\Desktop\Learning C#\Mini Projects\CalculatorProgram\bin\Debug\net6.0\CalculatorProgram.exe
+C:\Users\Alex\Desktop\Learning C#\Mini Projects\CalculatorProgram\bin\Debug\net6.0\CalculatorProgram.deps.json
+C:\Users\Alex\Desktop\Learning C#\Mini Projects\CalculatorProgram\bin\Debug\net6.0\CalculatorProgram.runtimeconfig.json
+C:\Users\Alex\Desktop\Learning C#\Mini Projects\CalculatorProgram\bin\Debug\net6.0\CalculatorProgram.dll
+C:\Users\Alex\Desktop\Learning C#\Mini Projects\CalculatorProgram\bin\Debug\net6.0\CalculatorProgram.pdb
+C:\Users\Alex\Desktop\Learning C#\Mini Projects\CalculatorProgram\obj\Debug\net6.0\CalculatorProgram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alex\Desktop\Learning C#\Mini Projects\CalculatorProgram\obj\Debug\net6.0\CalculatorProgram.AssemblyInfoInputs.cache
+C:\Users\Alex\Desktop\Learning C#\Mini Projects\CalculatorProgram\obj\Debug\net6.0\CalculatorProgram.AssemblyInfo.cs
+C:\Users\Alex\Desktop\Learning C#\Mini Projects\CalculatorProgram\obj\Debug\net6.0\CalculatorProgram.csproj.CoreCompileInputs.cache
+C:\Users\Alex\Desktop\Learning C#\Mini Projects\CalculatorProgram\obj\Debug\net6.0\CalculatorProgram.dll
+C:\Users\Alex\Desktop\Learning C#\Mini Projects\CalculatorProgram\obj\Debug\net6.0\refint\CalculatorProgram.dll
+C:\Users\Alex\Desktop\Learning C#\Mini Projects\CalculatorProgram\obj\Debug\net6.0\CalculatorProgram.pdb
+C:\Users\Alex\Desktop\Learning C#\Mini Projects\CalculatorProgram\obj\Debug\net6.0\CalculatorProgram.genruntimeconfig.cache
+C:\Users\Alex\Desktop\Learning C#\Mini Projects\CalculatorProgram\obj\Debug\net6.0\ref\CalculatorProgram.dll

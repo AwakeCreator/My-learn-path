@@ -1,0 +1,14 @@
+C:\Users\Alex\Desktop\Learning C#\Esercizi con Tipi di Dati\bin\Debug\net6.0\Esercizi con Tipi di Dati.exe
+C:\Users\Alex\Desktop\Learning C#\Esercizi con Tipi di Dati\bin\Debug\net6.0\Esercizi con Tipi di Dati.deps.json
+C:\Users\Alex\Desktop\Learning C#\Esercizi con Tipi di Dati\bin\Debug\net6.0\Esercizi con Tipi di Dati.runtimeconfig.json
+C:\Users\Alex\Desktop\Learning C#\Esercizi con Tipi di Dati\bin\Debug\net6.0\Esercizi con Tipi di Dati.dll
+C:\Users\Alex\Desktop\Learning C#\Esercizi con Tipi di Dati\bin\Debug\net6.0\Esercizi con Tipi di Dati.pdb
+C:\Users\Alex\Desktop\Learning C#\Esercizi con Tipi di Dati\obj\Debug\net6.0\Esercizi con Tipi di Dati.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alex\Desktop\Learning C#\Esercizi con Tipi di Dati\obj\Debug\net6.0\Esercizi con Tipi di Dati.AssemblyInfoInputs.cache
+C:\Users\Alex\Desktop\Learning C#\Esercizi con Tipi di Dati\obj\Debug\net6.0\Esercizi con Tipi di Dati.AssemblyInfo.cs
+C:\Users\Alex\Desktop\Learning C#\Esercizi con Tipi di Dati\obj\Debug\net6.0\Esercizi con Tipi di Dati.csproj.CoreCompileInputs.cache
+C:\Users\Alex\Desktop\Learning C#\Esercizi con Tipi di Dati\obj\Debug\net6.0\Esercizi con Tipi di Dati.dll
+C:\Users\Alex\Desktop\Learning C#\Esercizi con Tipi di Dati\obj\Debug\net6.0\refint\Esercizi con Tipi di Dati.dll
+C:\Users\Alex\Desktop\Learning C#\Esercizi con Tipi di Dati\obj\Debug\net6.0\Esercizi con Tipi di Dati.pdb
+C:\Users\Alex\Desktop\Learning C#\Esercizi con Tipi di Dati\obj\Debug\net6.0\Esercizi con Tipi di Dati.genruntimeconfig.cache
+C:\Users\Alex\Desktop\Learning C#\Esercizi con Tipi di Dati\obj\Debug\net6.0\ref\Esercizi con Tipi di Dati.dll

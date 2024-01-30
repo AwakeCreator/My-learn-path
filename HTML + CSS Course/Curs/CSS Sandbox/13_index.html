@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Test File</title>
+    <style>
+         .hello {
+            color: red;
+            margin-top: -30px;
+            margin-left:-30px;
+        }
+        
+        h1 {
+            /* display: none; */
+            /* visibility: hidden; */ 
+            color: blue !important;
+        }
+    </style>
+</head>
+<body>
+    <h1 class="hello">Hello World</h1>
+    <p>La differenza tra display none e visibility none e che il primo toglie proprio l elemento mentre il secondo lo fa diventare solo invisibile lasciando uno spazio vuoto
+    </p>
+    <p>Normalmente in css le proprieta vengono eseguite in ordine dall alto verso il basso, ma se lo si fa targettando una classe .hello ed un elemento h1 per esempio anche se in css h1 sara al di sotto di .hello, verra comunque eseguito .hello e questo perche le classi sovrascrivono</p>
+    <p>Se invece si vuole per forza eseguire quel specifico elemento basta aggiungere "!important" in css</p>
+    <p>Si possono usare anche valori negativi come nel esempio sopra di hello world ma e consigliato di non farlo, qui lo facciamo solo per mostrare che lo si puo fare solo con margin pero, con padding non funzionera</p>
+</body>
+</html>

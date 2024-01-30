@@ -1,0 +1,14 @@
+C:\Users\Alex\Desktop\Learning C#\CorsoCSharp2\bin\Debug\net6.0\CorsoCSharp2.exe
+C:\Users\Alex\Desktop\Learning C#\CorsoCSharp2\bin\Debug\net6.0\CorsoCSharp2.deps.json
+C:\Users\Alex\Desktop\Learning C#\CorsoCSharp2\bin\Debug\net6.0\CorsoCSharp2.runtimeconfig.json
+C:\Users\Alex\Desktop\Learning C#\CorsoCSharp2\bin\Debug\net6.0\CorsoCSharp2.dll
+C:\Users\Alex\Desktop\Learning C#\CorsoCSharp2\bin\Debug\net6.0\CorsoCSharp2.pdb
+C:\Users\Alex\Desktop\Learning C#\CorsoCSharp2\obj\Debug\net6.0\CorsoCSharp2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alex\Desktop\Learning C#\CorsoCSharp2\obj\Debug\net6.0\CorsoCSharp2.AssemblyInfoInputs.cache
+C:\Users\Alex\Desktop\Learning C#\CorsoCSharp2\obj\Debug\net6.0\CorsoCSharp2.AssemblyInfo.cs
+C:\Users\Alex\Desktop\Learning C#\CorsoCSharp2\obj\Debug\net6.0\CorsoCSharp2.csproj.CoreCompileInputs.cache
+C:\Users\Alex\Desktop\Learning C#\CorsoCSharp2\obj\Debug\net6.0\CorsoCSharp2.dll
+C:\Users\Alex\Desktop\Learning C#\CorsoCSharp2\obj\Debug\net6.0\refint\CorsoCSharp2.dll
+C:\Users\Alex\Desktop\Learning C#\CorsoCSharp2\obj\Debug\net6.0\CorsoCSharp2.pdb
+C:\Users\Alex\Desktop\Learning C#\CorsoCSharp2\obj\Debug\net6.0\CorsoCSharp2.genruntimeconfig.cache
+C:\Users\Alex\Desktop\Learning C#\CorsoCSharp2\obj\Debug\net6.0\ref\CorsoCSharp2.dll

@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "fZviMayHHDE4BYgaZ686RFNjrnHAkDnvFUDJ84w4hf8XDkdHB8T++1dQlTXRFqh4wKAA8ReR66TSeJ7Fz8ffpQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Alex\\Desktop\\Learning C#\\Mini Projects\\TutorialForBegginers\\Methods.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Alex\\.nuget\\packages\\microsoft.dotnet.ilcompiler\\8.0.0\\microsoft.dotnet.ilcompiler.8.0.0.nupkg.sha512",
+    "C:\\Users\\Alex\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.0\\microsoft.net.illink.tasks.8.0.0.nupkg.sha512",
+    "C:\\Users\\Alex\\.nuget\\packages\\runtime.win-x64.microsoft.dotnet.ilcompiler\\8.0.0\\runtime.win-x64.microsoft.dotnet.ilcompiler.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

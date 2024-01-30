@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Float & Align</title>
+    <style>
+        * {
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: Comic Sans MS, sans-serif;
+            line-height: 1.5em;
+        }
+        .container {
+            max-width: 960px;
+            margin: 30px auto; /*come nella lezione precedente*/
+        }
+        
+        .box {
+            background: #f4f4f4;
+            border: 3px dotted black;
+            padding: 20px;
+            margin-bottom: 15px;
+        }
+
+        .box p {
+            /* Text Align */
+            /* text-align: left; */
+            /* text-align: right; */
+            text-align: center;
+        }
+
+        .box h3 {
+            text-align: center;
+            text-align: right;
+        }
+
+        #box-2 {
+            float: left;
+            width: 68%;
+        }
+
+        #box-3 {
+            float: right;
+            width: 30%;
+        }
+        
+        .clr {
+            clear: both;
+        }
+
+        #box-5 p {
+            font-size: 40px;
+            line-height: 1em;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div id="box-1" class="box">
+            <h3>Heading</h3>
+            <p>Per allineare tutte le cose al centro si mette tutto dentro un container dopodiche li si da la massima largezza max-width che di desidera, non solo larghezza width pero, in quanto avrai problemi quando andrai a crearlo responsive, fai i test da solo per vedere la differenza</p>
+        </div>
+        <div id="box-2" class="box">
+            <h3>Heading</h3>
+            <p>L'attributo text-align viene usato appunto per allineare il testo, di default e' impostato a sinistra,ogni volta che nel css aggiungerai una stessa proprieta con un'attributo diverso quest'ultimo si sovrascrivera ai precedenti</p>
+            <p>Useremo float ma non e' una cosa che userai perche andrai a riscontrare problemi con il responsive websites, pero prima di passare a display flex grid e altre cose sarebbe meglio se per iniziare usiamo float</p>
+        </div>
+        <div id="box-3" class="box">
+            <h3>Heading</h3>
+            <p>Per far in modo che combacino devi prima assicurarti che hai settato il border-sizing to box-border</p>
+        </div>   
+
+        <div class="clr"></div> 
+
+        <div id="box-4" class="box">
+            <h3>Heading</h3>
+            <p>Qui si riscontra un'altro pain in the neck perche il quarto box viene messe dietro agl'altri due quindi per risolvere il problema si deve prima pulire clear questa impostazione e cio si fa aggiungendo un div con classe clr. tra 3 e 4 e poi andare ad aggiungere in css la proprieta clear con attributo both per pulire entrambi i float(togli il .clr per vedere il problema)</p>
+        </div>
+        <div id="box-5" class="box">
+            <h3>I float sono usati anche in navigation bar</h3>
+            <p>Quindi ricorda che se usi la proprieta float devi pulire le interferenze</p>
+        </div>
+    </div>
+    
+</body>
+</html>

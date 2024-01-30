@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Flex Basics</title>
+	<style>
+		* {
+			box-sizing: border-box;
+		}
+
+		body {
+			font-family: Arial, Helvetica, sans-serif;
+		}
+
+		.flex-container {
+			display: flex;
+			/* flex-direction: column; row by default */
+			/* flex-wrap:wrap-reverse; */
+		}
+
+		.item {
+			background: #f4f4f4;
+			border: #ccc solid 4px;
+			margin: 10px;
+			padding: 10px;
+			text-align: center; /*di default e' a sinistra*/
+			border-radius: 10px;
+			/* width: 600px; */
+			/* flex: 1 0 400px; */
+			/* qui sopra sono 3 attributi:
+			- la prima e' flex-grow
+			- la seconda e' flex-shrink
+			- la terza e' la larghezza */
+
+		}
+		/* aici mai sus se aplica tuturor containerelor, daca vrei sa schimbi sau sa adaugi un atribut doar unui container din cele 3 atunci poti selecta acel container si sa faci ca mai jos */
+		.item-1 {
+			width: 600px;
+			flex-shrink: 0; /*find setat pe 0, containerul isi va pastra dimensiunile date chiar daca vei ridimensiona pagina*/
+		}
+		.item-2 {
+			flex-grow: 1;/*se ridimensioneaza pentru a umple spatiul ramas*/
+			flex-basis: 0; 
+			/* are ceva treaba cu largimea doar ca nu explica bine */
+		}
+		.item-3 {
+			flex-grow: 4; 
+			/* in cazul de fata acest container va umple spatiul ramas fiind de 4x mai mare decat .item-2, daca item-2 ar deveni flex-grow 2 atunci acest container va fi doar de 2x mai mare decat primul */
+			/*poti folosi pana la 100 de masuri, dimensiunea containerului va fi direct proportionala cu masura data celorlalte */
+		}
+	</style>
+</head>
+<body>
+	<div class="flex-container">
+		<div class="item item-1">
+			<h3>Item 1</h3>
+		</div>
+		<div class="item item-2">
+			<h3>Item 2</h3>
+		</div>
+		<div class="item item-3">
+			<h3>Item 3</h3>
+		</div>
+	</div>
+</body>
+</html>

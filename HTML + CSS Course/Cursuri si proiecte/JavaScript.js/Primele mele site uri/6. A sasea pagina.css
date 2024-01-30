@@ -1,0 +1,31 @@
+.style {
+    text-align: center;
+    font-size: 50px;
+    text-decoration: none;
+}
+
+.div1, .div2, .div3 {
+    text-align: center;
+    height: 50px;
+    background-color: #ddd;
+    display: none;
+}
+
+.div2 {
+    background-color: #abc;
+}
+
+.div3 {
+    background-color: #abf;
+}
+
+.input1 {
+    font-size: 30px;
+    text-align: center;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

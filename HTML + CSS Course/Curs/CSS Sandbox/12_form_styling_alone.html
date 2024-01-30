@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Form Styling</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        body {
+            background: #333;
+        }
+
+        .container {
+            width: 400px;
+            background: #fff;
+            margin:auto;
+            padding: 20px;
+            margin-top: 100px;
+        }
+
+        .signUp {
+            text-align: center;
+            line-height: 2em;
+            font-size: 30px ;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            font-weight:400;
+        }
+
+        .free {
+            text-align: center;
+        }
+
+        .firstName, .lastName, .email, .password, .confirmPassword {
+            padding-top: 20px;
+            margin-bottom: 10px;
+            color: grey;
+        }
+
+        #firstName, #lastName, #email, #password, #confirmPassword {
+            width: 100%;
+            height: 30px;
+            border: 1px solid #c3c3c3;
+            border-radius: 5px;
+            font-size: 20px;
+            padding-left: 10px;
+        }
+
+        .btn {
+            width: 100%;
+            padding: 10px 0;
+            border-radius: 8px;
+            margin-top: 20px;
+            border: none;
+            background: #41b998;
+            color: #fff;
+            margin-bottom: 30px;
+            cursor: pointer;
+        }
+
+        .policy1, .policy2 {
+            text-align: center;
+            margin: 5px;
+        }
+
+        .terms1, .terms2 {
+            text-decoration: none;
+        }
+
+        .terms1:visited, .terms2:visited {
+            text-decoration: none;
+            color: blue;
+        }
+        
+        .login {
+            color: #fff;
+            text-align: center;
+            padding: 20px;
+        }
+
+        #loginHere {
+            text-decoration: none;
+            color: #41b998;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="signUp">Sign Up</div>
+        <div class="free">It's free and only takes a minute</div>
+        <form action="">
+            <div class="firstName">First Name</div>
+            <input type="text" id="firstName">
+        </form>
+        <form action="">
+            <div class="lastName">Last Name</div>
+            <input type="text" id="lastName">
+        </form>
+        <form action="">
+            <div class="email">Email</div>
+            <input type="email" id="email">
+        </form>
+        <form action="">
+            <div class="password">Password</div>
+            <input type="password" id="password">
+        </form>
+        <form action="">
+            <div class="confirmPassword">Confirm Password</div>
+            <input type="password" id="confirmPassword">
+        </form>
+        <button class="btn">Sign Up</button>
+        <div class="policy1">By clicking the Sign Up button, you agree to our</div>
+        <div class="policy2"><a href="#" class="terms1">Terms & Conditions</a> and <a href="#" class="terms2">Privacy Policy</a></div>
+    </div>
+    <div class="login">Already have an account? <a href="#" id="loginHere">Login Here</a></div>
+</body>
+</html>

@@ -1,0 +1,14 @@
+C:\Users\Alex\Desktop\Learning C#\Esercizi Lavorare con i Numeri\bin\Debug\net6.0\Esercizi Lavorare con i Numeri.exe
+C:\Users\Alex\Desktop\Learning C#\Esercizi Lavorare con i Numeri\bin\Debug\net6.0\Esercizi Lavorare con i Numeri.deps.json
+C:\Users\Alex\Desktop\Learning C#\Esercizi Lavorare con i Numeri\bin\Debug\net6.0\Esercizi Lavorare con i Numeri.runtimeconfig.json
+C:\Users\Alex\Desktop\Learning C#\Esercizi Lavorare con i Numeri\bin\Debug\net6.0\Esercizi Lavorare con i Numeri.dll
+C:\Users\Alex\Desktop\Learning C#\Esercizi Lavorare con i Numeri\bin\Debug\net6.0\Esercizi Lavorare con i Numeri.pdb
+C:\Users\Alex\Desktop\Learning C#\Esercizi Lavorare con i Numeri\obj\Debug\net6.0\Esercizi Lavorare con i Numeri.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alex\Desktop\Learning C#\Esercizi Lavorare con i Numeri\obj\Debug\net6.0\Esercizi Lavorare con i Numeri.AssemblyInfoInputs.cache
+C:\Users\Alex\Desktop\Learning C#\Esercizi Lavorare con i Numeri\obj\Debug\net6.0\Esercizi Lavorare con i Numeri.AssemblyInfo.cs
+C:\Users\Alex\Desktop\Learning C#\Esercizi Lavorare con i Numeri\obj\Debug\net6.0\Esercizi Lavorare con i Numeri.csproj.CoreCompileInputs.cache
+C:\Users\Alex\Desktop\Learning C#\Esercizi Lavorare con i Numeri\obj\Debug\net6.0\Esercizi Lavorare con i Numeri.dll
+C:\Users\Alex\Desktop\Learning C#\Esercizi Lavorare con i Numeri\obj\Debug\net6.0\refint\Esercizi Lavorare con i Numeri.dll
+C:\Users\Alex\Desktop\Learning C#\Esercizi Lavorare con i Numeri\obj\Debug\net6.0\Esercizi Lavorare con i Numeri.pdb
+C:\Users\Alex\Desktop\Learning C#\Esercizi Lavorare con i Numeri\obj\Debug\net6.0\Esercizi Lavorare con i Numeri.genruntimeconfig.cache
+C:\Users\Alex\Desktop\Learning C#\Esercizi Lavorare con i Numeri\obj\Debug\net6.0\ref\Esercizi Lavorare con i Numeri.dll

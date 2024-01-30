@@ -1,0 +1,14 @@
+C:\Users\Alex\Desktop\Learning C#\CorsoCSharp5\bin\Debug\net6.0\CorsoCSharp5.exe
+C:\Users\Alex\Desktop\Learning C#\CorsoCSharp5\bin\Debug\net6.0\CorsoCSharp5.deps.json
+C:\Users\Alex\Desktop\Learning C#\CorsoCSharp5\bin\Debug\net6.0\CorsoCSharp5.runtimeconfig.json
+C:\Users\Alex\Desktop\Learning C#\CorsoCSharp5\bin\Debug\net6.0\CorsoCSharp5.dll
+C:\Users\Alex\Desktop\Learning C#\CorsoCSharp5\bin\Debug\net6.0\CorsoCSharp5.pdb
+C:\Users\Alex\Desktop\Learning C#\CorsoCSharp5\obj\Debug\net6.0\CorsoCSharp5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alex\Desktop\Learning C#\CorsoCSharp5\obj\Debug\net6.0\CorsoCSharp5.AssemblyInfoInputs.cache
+C:\Users\Alex\Desktop\Learning C#\CorsoCSharp5\obj\Debug\net6.0\CorsoCSharp5.AssemblyInfo.cs
+C:\Users\Alex\Desktop\Learning C#\CorsoCSharp5\obj\Debug\net6.0\CorsoCSharp5.csproj.CoreCompileInputs.cache
+C:\Users\Alex\Desktop\Learning C#\CorsoCSharp5\obj\Debug\net6.0\CorsoCSharp5.dll
+C:\Users\Alex\Desktop\Learning C#\CorsoCSharp5\obj\Debug\net6.0\refint\CorsoCSharp5.dll
+C:\Users\Alex\Desktop\Learning C#\CorsoCSharp5\obj\Debug\net6.0\CorsoCSharp5.pdb
+C:\Users\Alex\Desktop\Learning C#\CorsoCSharp5\obj\Debug\net6.0\CorsoCSharp5.genruntimeconfig.cache
+C:\Users\Alex\Desktop\Learning C#\CorsoCSharp5\obj\Debug\net6.0\ref\CorsoCSharp5.dll

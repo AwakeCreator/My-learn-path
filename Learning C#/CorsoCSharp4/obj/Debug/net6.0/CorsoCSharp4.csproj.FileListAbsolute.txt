@@ -1,0 +1,14 @@
+C:\Users\Alex\Desktop\Learning C#\CorsoCSharp4\obj\Debug\net6.0\CorsoCSharp4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alex\Desktop\Learning C#\CorsoCSharp4\obj\Debug\net6.0\CorsoCSharp4.AssemblyInfoInputs.cache
+C:\Users\Alex\Desktop\Learning C#\CorsoCSharp4\obj\Debug\net6.0\CorsoCSharp4.AssemblyInfo.cs
+C:\Users\Alex\Desktop\Learning C#\CorsoCSharp4\obj\Debug\net6.0\CorsoCSharp4.csproj.CoreCompileInputs.cache
+C:\Users\Alex\Desktop\Learning C#\CorsoCSharp4\bin\Debug\net6.0\CorsoCSharp4.exe
+C:\Users\Alex\Desktop\Learning C#\CorsoCSharp4\bin\Debug\net6.0\CorsoCSharp4.deps.json
+C:\Users\Alex\Desktop\Learning C#\CorsoCSharp4\bin\Debug\net6.0\CorsoCSharp4.runtimeconfig.json
+C:\Users\Alex\Desktop\Learning C#\CorsoCSharp4\bin\Debug\net6.0\CorsoCSharp4.dll
+C:\Users\Alex\Desktop\Learning C#\CorsoCSharp4\bin\Debug\net6.0\CorsoCSharp4.pdb
+C:\Users\Alex\Desktop\Learning C#\CorsoCSharp4\obj\Debug\net6.0\CorsoCSharp4.dll
+C:\Users\Alex\Desktop\Learning C#\CorsoCSharp4\obj\Debug\net6.0\refint\CorsoCSharp4.dll
+C:\Users\Alex\Desktop\Learning C#\CorsoCSharp4\obj\Debug\net6.0\CorsoCSharp4.pdb
+C:\Users\Alex\Desktop\Learning C#\CorsoCSharp4\obj\Debug\net6.0\CorsoCSharp4.genruntimeconfig.cache
+C:\Users\Alex\Desktop\Learning C#\CorsoCSharp4\obj\Debug\net6.0\ref\CorsoCSharp4.dll

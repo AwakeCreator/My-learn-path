@@ -1,0 +1,40 @@
+body {
+    margin: 50px;
+    
+    
+}
+
+header {
+    height: 200px;
+    box-shadow: 10px 10px 40px -7px #000000;
+}
+nav {
+    color: black;
+}
+a {
+    color:grey;
+}
+
+a:link {
+    text-decoration: none;
+    margin: 50px; 
+}
+
+a:hover {
+    color:black;
+    font-size: 40px;
+    text-decoration:underline;
+}
+a:active {
+    text-decoration: underline;
+}
+
+div {
+    width: 600px;
+    height: 200px;
+    line-height: 200px;
+    color: white;
+    text-align: center;
+        
+    
+}

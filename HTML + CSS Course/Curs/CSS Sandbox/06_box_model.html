@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Box Model / Margin & Padding</title>
+    <style>
+        /* CSS reset */
+        * {
+            margin: 10px;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        .box {
+            background: #f4f4f4;
+            border: 3px solid black;
+            margin-bottom: 20px;
+            width: 500px;
+
+            /* Padding on all sides  */
+            padding: 20px;
+
+            /* Padding per side */
+            padding-top: 20px;
+            padding-right: 40px;
+            padding-bottom: 20px;
+            padding-left: 40px;
+
+            /* La stessa identica cosa funziona anche per quanto riguarda il margin, quindi potresti cambiare tutti i padding che vuoi con margin */
+
+            /* Padding shorthand = top, right, bottom, left */
+            padding: 10px 20px 10px 20px;
+
+            /* Padding shorthand = top/bottom left/right */
+            padding: 10px 20px;
+
+            /* Margin on all sides */
+            margin: 50px;
+        }
+        
+        .box h3 {
+            font-size: 30px;
+            display: flex;
+            justify-content: center;
+        }
+
+         .box p {
+            /* margin: 0; */
+            font-size: 25px;
+            font-weight: bold;
+            font-family: Comic Sans MS, sans-serif;
+         }
+
+        .box-padding {
+            width: 550px;
+            border: 3px solid black;
+            padding: 100px;
+        }
+
+        .box-padding h3 {
+            font-size: 30px;
+            font-weight: bold;
+        }
+
+        .box-padding p {
+            font-size: 25px;
+            font-weight: bold;
+        }
+    </style>
+</head>
+<body>
+    <div class="box">
+        <h3>Box One</h3>
+        <p>Se apri il development tool vedrai che ci sono margin e padding di default per questo c'e lo spazio intorno agli elementi, questo si puo ovviamente modificare con css, puoi usare i selettori e poi impostare a 0, in questo modo il default rimarra ma le tue impostazioni messe in css sovrascriveranno quelle di default</p>
+    </div>
+    <div class="box">
+        <h3>Box Two</h3>
+        <p>Per resettare tutti gl'elementi a 0 basta mettere un *{} e impostare margin e padding a 0, la regola e' sempre la stessa di quella sopra, le nuove impostazioni verranno sovrascritte a quelle di default </p>
+    </div>
+    <div class="box-padding">
+        <h3>Box Three</h3>
+        <p>Se si aggiunge un padding grande e la largezza width del div e piccola allora il padding si aggiungera alla largezza del div creando problemi, per soluzionare questo problema bisogna impostare al * box-sizing = border-box; In questo modo il padding invece di spingere i bordi verso l'esterno violando le misure impostate lo fara verso l'interno mantenendo le misure impostate. </p>
+    </div>
+</body>
+</html>

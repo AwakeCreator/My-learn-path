@@ -1,0 +1,15 @@
+html {
+    background-color:darkorange;
+}
+
+h1 {
+    font-size: 75px ;
+    font-family:"Comic Sans MS" ;
+    text-align: center;
+}
+
+a {
+    font-size: 40px;
+    color:black;
+
+}

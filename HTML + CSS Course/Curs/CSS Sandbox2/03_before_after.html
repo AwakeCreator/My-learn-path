@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Before & After</title>
+	<style>
+		body {
+			font-family: Arial, Helvetica, sans-serif;
+			background: #333;
+			color: #fff;
+			margin: 0;
+		}
+
+		.is-required1::after {
+			content: '*';
+			color: red;
+			padding-left: 2px;
+		}
+
+		.is-required2::before {
+			content: '*';
+			color: red;
+			padding-left: 2px;
+		}
+
+		header {
+			display: flex;
+			flex-direction: column;
+			justify-content: center;
+			align-items: center;
+			text-align: center;
+			height: 70vw;
+			position: relative;
+		}
+
+		header::before {
+			content: '';
+			background: url('https://source.unsplash.com/1600x900/?nature,waterfall') no-repeat center center/cover;
+			opacity: 0.2;
+			position: absolute;
+			top: 0;
+			left: 0;
+			width: 100%;
+			height: 100%;
+			z-index: -1;
+		}
+
+		header > h1 {
+			font-size: 4rem;
+			margin: 1rem;
+		}
+	</style>
+</head>
+<body>
+	<label class="is-required1" for="name">After</label>
+	<input type="text">
+<br><br>
+	<label class="is-required2" for="name">Before</label>
+	<input type="text">
+
+	<header>
+		<h1>Hello World</h1>
+		<p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ullam, explicabo!</p>
+	</header>
+
+	<section>
+		<h3>Lorem, ipsum dolor.</h3>
+		<p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Nesciunt, animi, saepe possimus aspernatur maxime quo, odit facilis quisquam facere laboriosam quasi sapiente ab optio dignissimos voluptas velit earum. Quam, rerum!</p>
+	</section>
+</body>
+</html>

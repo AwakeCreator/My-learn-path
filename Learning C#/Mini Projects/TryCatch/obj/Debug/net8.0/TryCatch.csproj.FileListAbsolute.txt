@@ -1,0 +1,14 @@
+C:\Users\Alex\Desktop\Learning C#\Mini Projects\TryCatch\bin\Debug\net8.0\TryCatch.exe
+C:\Users\Alex\Desktop\Learning C#\Mini Projects\TryCatch\bin\Debug\net8.0\TryCatch.deps.json
+C:\Users\Alex\Desktop\Learning C#\Mini Projects\TryCatch\bin\Debug\net8.0\TryCatch.runtimeconfig.json
+C:\Users\Alex\Desktop\Learning C#\Mini Projects\TryCatch\bin\Debug\net8.0\TryCatch.dll
+C:\Users\Alex\Desktop\Learning C#\Mini Projects\TryCatch\bin\Debug\net8.0\TryCatch.pdb
+C:\Users\Alex\Desktop\Learning C#\Mini Projects\TryCatch\obj\Debug\net8.0\TryCatch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alex\Desktop\Learning C#\Mini Projects\TryCatch\obj\Debug\net8.0\TryCatch.AssemblyInfoInputs.cache
+C:\Users\Alex\Desktop\Learning C#\Mini Projects\TryCatch\obj\Debug\net8.0\TryCatch.AssemblyInfo.cs
+C:\Users\Alex\Desktop\Learning C#\Mini Projects\TryCatch\obj\Debug\net8.0\TryCatch.csproj.CoreCompileInputs.cache
+C:\Users\Alex\Desktop\Learning C#\Mini Projects\TryCatch\obj\Debug\net8.0\TryCatch.dll
+C:\Users\Alex\Desktop\Learning C#\Mini Projects\TryCatch\obj\Debug\net8.0\refint\TryCatch.dll
+C:\Users\Alex\Desktop\Learning C#\Mini Projects\TryCatch\obj\Debug\net8.0\TryCatch.pdb
+C:\Users\Alex\Desktop\Learning C#\Mini Projects\TryCatch\obj\Debug\net8.0\TryCatch.genruntimeconfig.cache
+C:\Users\Alex\Desktop\Learning C#\Mini Projects\TryCatch\obj\Debug\net8.0\ref\TryCatch.dll

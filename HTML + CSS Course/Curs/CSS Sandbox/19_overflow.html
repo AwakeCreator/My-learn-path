@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Document</title>
+	<style>
+		.box-1 {
+			margin: 100px;
+			display: inline-block;
+			width: 200px;
+			height: 100px;
+			overflow: visible;
+			border: 1px solid black;
+		}
+
+		.box-2 {
+			margin: 100px;
+			display: inline-block;
+			width: 200px;
+			height: 100px;
+			overflow: hidden;
+			border: 1px solid black;
+		}
+
+		.box-3 {
+			margin: 100px;
+			display: inline-block;
+			width: 200px;
+			height: 100px;
+			overflow: scroll;
+			border: 1px solid black;
+		}
+
+		.box-4 {
+			margin: 100px;
+			display: inline-block;
+			width: 200px;
+			height: 100px;
+			overflow: auto;
+			border: 1px solid black;
+		}
+
+		.box-5 {
+			margin: 100px;
+			display: inline-block;
+			width: 200px;
+			height: 100px;
+			overflow: overlay;
+			border: 1px solid black;
+		}
+	</style>
+</head>
+<body>
+	
+	<div class="box-1" contenteditable="true">
+		<div><strong>visible (default)</strong></div>
+		Lorem ipsum dolor sit amet consectetur adipisicing elit. Pariatur, repudiandae voluptatem nisi ratione et illo ex quo delectus suscipit quod asperiores ad saepe nostrum officia excepturi rem distinctio cupiditate quaerat mollitia. Cumque nobis exercitationem mollitia labore repellendus expedita at aperiam eaque qui explicabo libero, consequuntur culpa tenetur totam ut velit.
+	</div>
+
+	<div class="box-2" contenteditable="true">
+		<div><strong>hidden</strong></div>
+		Lorem ipsum dolor sit amet consectetur adipisicing elit. Pariatur, repudiandae voluptatem nisi ratione et illo ex quo delectus suscipit quod asperiores ad saepe nostrum officia excepturi rem distinctio cupiditate quaerat mollitia. Cumque nobis exercitationem mollitia labore repellendus expedita at aperiam eaque qui explicabo libero, consequuntur culpa tenetur totam ut velit.
+	</div>
+
+	<div class="box-3" contenteditable="true">
+		<div><strong>scroll</strong></div>
+		Lorem ipsum dolor sit amet consectetur adipisicing elit. Pariatur, repudiandae voluptatem nisi ratione et illo ex quo delectus suscipit quod asperiores ad saepe nostrum officia excepturi rem distinctio cupiditate quaerat mollitia. Cumque nobis exercitationem mollitia labore repellendus expedita at aperiam eaque qui explicabo libero, consequuntur culpa tenetur totam ut velit.
+	</div>
+
+	<div class="box-4" contenteditable="true">
+		<div><strong>auto</strong></div>
+		Lorem ipsum dolor sit amet consectetur adipisicing elit. Pariatur, repudiandae voluptatem nisi ratione et illo ex quo delectus suscipit quod asperiores ad saepe nostrum officia excepturi rem distinctio cupiditate quaerat mollitia. Cumque nobis exercitationem mollitia labore repellendus expedita at aperiam eaque qui explicabo libero, consequuntur culpa tenetur totam ut velit.
+	</div>
+
+	<div class="box-5" contenteditable="true">
+		<div><strong>overlay</strong></div>
+		Lorem ipsum dolor sit amet consectetur adipisicing elit. Pariatur, repudiandae voluptatem nisi ratione et illo ex quo delectus suscipit quod asperiores ad saepe nostrum officia excepturi rem distinctio cupiditate quaerat mollitia. Cumque nobis exercitationem mollitia labore repellendus expedita at aperiam eaque qui explicabo libero, consequuntur culpa tenetur totam ut velit.
+	</div>
+</body>
+</html>

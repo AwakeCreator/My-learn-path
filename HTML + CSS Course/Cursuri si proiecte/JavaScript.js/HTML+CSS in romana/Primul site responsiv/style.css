@@ -1,0 +1,56 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: comic sans ms;
+}
+
+.header {
+    display: flex;
+    justify-content:space-between;
+    align-items:center;
+    color: #fff;
+    background-color: #c8ac93;
+    padding: 0 30px;
+}
+
+.logo {
+    font-weight: bold;
+    font-size: 30px;
+    text-shadow: 3px 3px 6px rgb(122, 24, 200) ;
+}
+
+ul {
+    display: flex;
+    padding: 30px;
+    list-style: none;
+}
+
+.links {
+    padding: 30px;
+    text-decoration: none;
+    color: #fff;
+    text-shadow: 2px 2px 4px rgb(89, 48, 13);
+    font-size: 20px
+}
+
+.links:hover {
+    background-color: rgb(99, 200, 178);
+    color: rgb(44, 99, 11);
+    transition: 1s;
+}
+
+.button-lines {
+    color: #fff;
+}
+
+.lines {
+    width: 35px;
+    height: 5;
+    margin: 30px;
+    
+}
+

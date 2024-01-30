@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Flex align</title> 
+	<style>
+		* {
+			border: black solid 2px;
+			margin: 0;
+		}
+
+		html {background-color: #ccc;}
+
+		body {
+			font-family: Arial, Helvetica, sans-serif;
+			background-color: green;
+			padding: 20px;
+		}
+
+		.flex-container {
+			background-color: red;
+			display: flex;
+			flex-direction: row; /* row by default */
+			/*cu column axele se inverseaza  */
+			align-items: center ; /* stretch by default */
+			/*merge pe cross-axis*/
+			justify-content: center; /*merge pe main-axis*/
+			height: 50vh;
+		}
+
+		.item {
+			background: #f4f4f4;
+			border: #ccc solid 2px;
+			margin: 10px;
+			padding: 10px;
+			text-align: center;
+			border-radius: 10px;
+			/*flex: 1; /* ca sa mearga tre sa pui containerul pe display flex mai intai, primul atribut este flex-grow */
+		}
+
+	</style>
+</head>
+<body> 
+	<h1 style="text-align: center;">Body</h1>
+	
+
+	<h1 style="font-size: 40px; text-align: center; background: red;">Flex Container</h1>
+
+		<div class="flex-container">
+			<div class="item item-1">
+				<h3>Item 1</h3>
+			</div>
+			<div class="item item-2">
+				<h3>Item 2</h3>
+			</div>
+			<div class="item item-3">
+				<h3>Item 3</h3>
+			</div>
+
+		
+	</div>
+</body>
+</html>

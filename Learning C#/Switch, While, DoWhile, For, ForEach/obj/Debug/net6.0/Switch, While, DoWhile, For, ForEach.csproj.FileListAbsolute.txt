@@ -1,0 +1,14 @@
+C:\Users\Alex\Desktop\Learning C#\Switch, While, DoWhile, For, ForEach\bin\Debug\net6.0\Switch, While, DoWhile, For, ForEach.exe
+C:\Users\Alex\Desktop\Learning C#\Switch, While, DoWhile, For, ForEach\bin\Debug\net6.0\Switch, While, DoWhile, For, ForEach.deps.json
+C:\Users\Alex\Desktop\Learning C#\Switch, While, DoWhile, For, ForEach\bin\Debug\net6.0\Switch, While, DoWhile, For, ForEach.runtimeconfig.json
+C:\Users\Alex\Desktop\Learning C#\Switch, While, DoWhile, For, ForEach\bin\Debug\net6.0\Switch, While, DoWhile, For, ForEach.dll
+C:\Users\Alex\Desktop\Learning C#\Switch, While, DoWhile, For, ForEach\bin\Debug\net6.0\Switch, While, DoWhile, For, ForEach.pdb
+C:\Users\Alex\Desktop\Learning C#\Switch, While, DoWhile, For, ForEach\obj\Debug\net6.0\Switch, While, DoWhile, For, ForEach.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alex\Desktop\Learning C#\Switch, While, DoWhile, For, ForEach\obj\Debug\net6.0\Switch, While, DoWhile, For, ForEach.AssemblyInfoInputs.cache
+C:\Users\Alex\Desktop\Learning C#\Switch, While, DoWhile, For, ForEach\obj\Debug\net6.0\Switch, While, DoWhile, For, ForEach.AssemblyInfo.cs
+C:\Users\Alex\Desktop\Learning C#\Switch, While, DoWhile, For, ForEach\obj\Debug\net6.0\Switch, While, DoWhile, For, ForEach.csproj.CoreCompileInputs.cache
+C:\Users\Alex\Desktop\Learning C#\Switch, While, DoWhile, For, ForEach\obj\Debug\net6.0\Switch, While, DoWhile, For, ForEach.dll
+C:\Users\Alex\Desktop\Learning C#\Switch, While, DoWhile, For, ForEach\obj\Debug\net6.0\refint\Switch, While, DoWhile, For, ForEach.dll
+C:\Users\Alex\Desktop\Learning C#\Switch, While, DoWhile, For, ForEach\obj\Debug\net6.0\Switch, While, DoWhile, For, ForEach.pdb
+C:\Users\Alex\Desktop\Learning C#\Switch, While, DoWhile, For, ForEach\obj\Debug\net6.0\Switch, While, DoWhile, For, ForEach.genruntimeconfig.cache
+C:\Users\Alex\Desktop\Learning C#\Switch, While, DoWhile, For, ForEach\obj\Debug\net6.0\ref\Switch, While, DoWhile, For, ForEach.dll

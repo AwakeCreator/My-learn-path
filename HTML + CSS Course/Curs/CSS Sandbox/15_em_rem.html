@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Em & Rem Units</title>
+	<style>
+		/* html {
+			font-size: 20px;
+		} */
+
+		#box-1, #box-2, #box-3 {
+			border: 2px solid red;
+		}
+
+		#box-2 {
+			font-size: 20px;
+		}
+
+		#box-2 p {
+			font-size: 1.5em;
+			padding: 1em;
+		}
+
+		#box-2 ul {
+			font-size: 1.2em;
+		}
+
+		#box-3 h3 {
+			font-size: 2rem;
+		}
+
+		#box-3 p {
+			line-height: 1.5rem;
+		}
+
+	</style>
+</head>
+<body>
+	<div id="box-1">
+		<h1>(h1)Box-1</h1>
+		<h3>(h3)Il default di tutto cio che viene scritto è di 16px tramite html_root che ulteriormente attraverso i figli (children) viene calcolata la relativa grandezza attraverso l'unita di misura em che è un semplice moltiplicatore del parente(parent) quindi di html-root e cioe 16px, quindi per l'esempio presente "h3" che ha come default 1.17em il risultato sara di 18.72px. Prova a scrivere un'altro heading con h2,3,4 ecc e vedi come cambia</h3>
+		<h5>(h5)Il presente h5 ha come default 0.83em quindi il font-size sara di conseguenza 0.83 x 16 = 13.28px</h5>
+		
+	<div id="box-2">
+		<h1>(h1)Box-2</h1>
+		<h3>(h3)Se cambiamo il font-size a <mark>20px</mark> del intero box-2 cioè il parent di h1 h3 e p allora il calcolo sara 20px per ogni grandezza em appartenente al child del box-2 quindi h1=>2em x <mark>20px</mark> = 40px , h3=> 1.17em x <mark>20px</mark> = 23.4px mentre per il p sara di <mark>20px</mark> perche per default l'em di p e di 1.0</h3>
+		<p>(p)Al presente paragrafo ho dato un font-size di 1.5em che di conseguenza diventera 30px a causa del parent box-2 con font-size di 20, il problema e' che se li diamo anche un padding di 1em il risultato dovrebbe essere 20px ma invece diventa 30px perche prende la misura del font-size gia trasformato per fare il calcolo e questo e' confusionario cosi come lo e' anche per i nidificati(nested) di seguito. Ho dato #box-2 ul {font-size: 1.2em;}</p>
+		<ul>(ul)Primo "ul" <mark>child</mark> di box-2 quindi 1.2em x 20px = <mark>24px</mark>
+			<li>(li)1</li>
+			<li>(li)2</li>
+			<li>(li)3
+				<ul>(ul)Secondo "ul" child di Primo "ul" quindi 1.2em x 24px = <mark>28.8px</mark>
+					<li>(li)1</li>
+					<li>(li)2</li>
+					<li>(li)3
+						<ul>(ul)Terzo "ul" child di Secondo "ul" quindi 1.2em x 28.8px = <mark>34.56px</mark>
+							<li>(li)1</li>
+							<li>(li)2</li>
+							<li>(li)3</li>
+						</ul>
+					</li>
+				</ul>
+			</li>
+			<li>(li)Quindi em va a moltiplicare in base al parent mentre <mark>rem</mark> che vedremmo di seguito va a moltiplicare solo in base al html_root</li>
+		</ul>
+	</div>
+
+	<div id="box-3">
+		<h1>(h1)Box-3</h1>
+		<h3>(h3)Con il rem le cose sono molto piu semplici perche va a prendere sempre il root per moltiplicare e questo vale anche per i figli dei figli, al presente h3 ho dato un font-size di 2rem che sara ovviamente 32px</h3>
+		<p>(p)<mark>Mentre a questo paragrafo ho dato un line-height di 1.5rem che sara 24px.</mark> Lorem ipsum dolor sit, amet consectetur adipisicing elit. Facilis pariatur nihil, nobis soluta quam ratione sint repellendus excepturi atque sit, asperiores similique veritatis doloribus commodi assumenda voluptas, aspernatur totam nemo! Numquam consectetur ipsa magni magnam nobis possimus natus nesciunt eum culpa saepe dolorum voluptates neque, dolorem eaque aut. Obcaecati, sed!</p>
+		<p>(p)Prova a cambiare il font-size di html e cioe del root e vedrai come tutto cambiera in base alla nuova misura... il box-2 viene ignorato perche li e' stato assegnato un font-size fisso cioe in px al parent(box-2) e tutti gl elementi appartenenti fanno riferimento alla misura fissa del parent</p>
+	</div>
+
+	<div id="box-4">
+		<h1>(h1)Box-4</h1>
+		<h3>(h3)Allora, finche si usa rem e non si modifica manualmente il font-size di html andra sempre a prendere il default del browser che puo variare. Nel browser chrome per esempio vai a impostazioni > aspetto e modifica dimensioni carattere, vedrai come tutto cambia se hai usato rem e come invece non cambia niente se hai usato em che ha gia un parente a cui hai impostato il font-size fisso</h3>
+	</div>
+</body>
+</html>

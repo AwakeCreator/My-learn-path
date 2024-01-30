@@ -1,0 +1,14 @@
+C:\Users\Alex\Desktop\Learning C#\Mini Projects\TutorialForBegginers\bin\Debug\net8.0\TutorialForBegginers.exe
+C:\Users\Alex\Desktop\Learning C#\Mini Projects\TutorialForBegginers\bin\Debug\net8.0\TutorialForBegginers.deps.json
+C:\Users\Alex\Desktop\Learning C#\Mini Projects\TutorialForBegginers\bin\Debug\net8.0\TutorialForBegginers.runtimeconfig.json
+C:\Users\Alex\Desktop\Learning C#\Mini Projects\TutorialForBegginers\bin\Debug\net8.0\TutorialForBegginers.dll
+C:\Users\Alex\Desktop\Learning C#\Mini Projects\TutorialForBegginers\bin\Debug\net8.0\TutorialForBegginers.pdb
+C:\Users\Alex\Desktop\Learning C#\Mini Projects\TutorialForBegginers\obj\Debug\net8.0\TutorialForBegginers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alex\Desktop\Learning C#\Mini Projects\TutorialForBegginers\obj\Debug\net8.0\TutorialForBegginers.AssemblyInfoInputs.cache
+C:\Users\Alex\Desktop\Learning C#\Mini Projects\TutorialForBegginers\obj\Debug\net8.0\TutorialForBegginers.AssemblyInfo.cs
+C:\Users\Alex\Desktop\Learning C#\Mini Projects\TutorialForBegginers\obj\Debug\net8.0\TutorialForBegginers.csproj.CoreCompileInputs.cache
+C:\Users\Alex\Desktop\Learning C#\Mini Projects\TutorialForBegginers\obj\Debug\net8.0\TutorialForBegginers.dll
+C:\Users\Alex\Desktop\Learning C#\Mini Projects\TutorialForBegginers\obj\Debug\net8.0\refint\TutorialForBegginers.dll
+C:\Users\Alex\Desktop\Learning C#\Mini Projects\TutorialForBegginers\obj\Debug\net8.0\TutorialForBegginers.pdb
+C:\Users\Alex\Desktop\Learning C#\Mini Projects\TutorialForBegginers\obj\Debug\net8.0\TutorialForBegginers.genruntimeconfig.cache
+C:\Users\Alex\Desktop\Learning C#\Mini Projects\TutorialForBegginers\obj\Debug\net8.0\ref\TutorialForBegginers.dll
